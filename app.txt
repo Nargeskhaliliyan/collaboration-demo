@@ -1,3 +1,1 @@
-Collaboration Demo Project
-Version 1.0
-Main feature: Demonstrates collaboration through issues, branches, and code reviews
+Main feature: Demonstrates teamwork and collaboration through GitHub issues, branches, and code reviews.
