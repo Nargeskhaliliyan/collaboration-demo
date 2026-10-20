@@ -1,1 +1,2 @@
 Main feature: Demonstrates teamwork and collaboration through GitHub issues, branches, and code reviews.
+Rebase practice: learning to keep branches up to date.
