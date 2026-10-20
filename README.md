@@ -28,3 +28,5 @@ This project demonstrates how teams collaborate using issues, branches, pull req
 2. Link the related issue using Closes #issue-number.
 3. Review the changes and address feedback.
 4. Merge the pull request when it is ready.
+
+   This project is maintained as a GitHub collaboration exersice.
